@@ -11,10 +11,10 @@ Pireis written in Python, allows you to create changelog file called `CHANGELOG.
 
 ### Options
 
-* `-f FORMAT, --format FORMAT`: Output format (Can be **json** or **md**)
-* `-e EXPOSE, --expose EXPOSE`: Expose committer e-mail (If True, e-mail will be included in json/md file otherwise * `NULL`)
-* `-s SIGNED, --signed SIGNED`: Remove Signed-Off-by: from commits for better look (Strip unnecessary signed off from comments)
-* `-x EXTENDED, --extended EXTENDED`: Extended output for Markdown
+* `-f, --format`: Output format (Can be **json** or **md**)
+* `-e, --expose`: Expose committer e-mail (If True, e-mail will be included in json/md file otherwise * `NULL`)
+* `-s, --signed`: Remove Signed-Off-by: from commits for better look (Strip unnecessary signed off from comments)
+* `-x, --extended`: Extended output for Markdown
 
 #### Example
 
