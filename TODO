@@ -1,0 +1,4 @@
+* HTML output for better look other than markdown.
+* Online Version pool system. (Users can publish their version.json and grab it from apps using api.pireis.com web page)
+* Code clean-up
+* XML output gormat (low priority)
