@@ -4,6 +4,8 @@ Piri Reis (pireis) Version Logger for Git for any kind of project
 
 Pireis written in Python, allows you to create changelog file called `CHANGELOG.md` or `version.json` file for applications from Git Repositories. If you have tags like `v1.0` Pireis automatically grab them and only show from `x` version _to_ `y` version **differences** seperately. If no tag founds, all by done via commit tags.
 
+**Note:** This code needs clean-up before gets stable.
+
 ### Usage
 
     cd myapp
