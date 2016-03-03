@@ -1,41 +1,41 @@
 {
     "v1.0.0-BETA": {
         "0": {
-            "commit": "0a68516",
             "comment": "First initial release",
-            "email": null
+            "email": null,
+            "commit": "0a68516"
         },
         "1": {
-            "commit": "2c20e61",
             "comment": "Some changes",
-            "email": null
+            "email": null,
+            "commit": "2c20e61"
         },
         "2": {
-            "commit": "b776df1",
             "comment": "Create README.md",
-            "email": null
+            "email": null,
+            "commit": "b776df1"
         },
         "3": {
-            "commit": "c0e6e57",
             "comment": "LICENSE added",
-            "email": null
+            "email": null,
+            "commit": "c0e6e57"
         }
     },
     "v1.0.1-BETA": {
         "0": {
-            "commit": "a577299",
             "comment": "Removed some prefixes",
-            "email": null
+            "email": null,
+            "commit": "a577299"
         },
         "1": {
-            "commit": "ea09aa4",
             "comment": "TO DO list added",
-            "email": null
+            "email": null,
+            "commit": "ea09aa4"
         },
         "2": {
-            "commit": "e79d2de",
             "comment": "CHANGELOG.md added",
-            "email": null
+            "email": null,
+            "commit": "e79d2de"
         }
     }
 }

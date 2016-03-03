@@ -1,6 +1,6 @@
 
 ####Version 1.0.1-BETA (03.03.2016)
-* **Rem**oved some prefixes
+* **Removed** some prefixes
 * TO DO list added
 * CHANGELOG.md added
 
