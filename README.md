@@ -1,10 +1,7 @@
 # pireis
-Piri Reis (pireis) Version Logger for Git for any kind of project
-
+### A Changelog Mapper for any kind of project using Git
 
 Pireis written in Python, allows you to create changelog file called `CHANGELOG.md` or `version.json` file for applications from Git Repositories. If you have tags like `v1.0` Pireis automatically grab them and only show from `x` version _to_ `y` version **differences** seperately. If no tag founds, all by done via commit tags.
-
-**Note:** This code needs clean-up before gets stable.
 
 ### Usage
 
@@ -18,11 +15,15 @@ Pireis written in Python, allows you to create changelog file called `CHANGELOG.
 * `-s, --signed`: Remove Signed-Off-by: from commits for better look (Strip unnecessary signed off from comments)
 * `-x, --extended`: Extended output for Markdown
 
-#### Example
+### Example
 
     $ ./pireis.py -f json -e -s -x
 
 **Works on both Windows and Linux.**
+
+### Windows
+
+*pireis* has a _windows_ version. You can find global installer (exe) under *releases* page.
 
 #### Note
 
